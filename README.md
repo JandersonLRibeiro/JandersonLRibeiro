@@ -14,9 +14,9 @@ Then i save result to [assets/github.gif](assets/github.gif)
 E obrigado a Kizzy Terra do canal Programação Dinâmica. 
 -->
 
-- 🔭 Atualmente estou trabalhando **na iSystems**
+- 🔭 Atualmente estou trabalhando na [iSystems](https://systems.com.br)
 
-- 🌱 Atualmente estou aprendendo **Análise Estatística Para Data Science com Linguagem Python**
+- 🌱 Atualmente estou aprendendo [Análise Estatística Para Data Science com Linguagem Python](https://www.datascienceacademy.com.br/course/analise-estatistica-para-data-science-com-linguagem-python)
 
 - 👯 Eu procuro colaborar em **projetos de ciência de dados**
 
