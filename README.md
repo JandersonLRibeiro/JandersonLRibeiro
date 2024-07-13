@@ -16,7 +16,7 @@ E obrigado a Kizzy Terra do canal Programação Dinâmica.
 
 - 🔭 Atualmente estou trabalhando na [iSystems](https://systems.com.br)
 
-- 🌱 Atualmente estou aprendendo [Análise Estatística Para Data Science com Linguagem Python](https://www.datascienceacademy.com.br/course/analise-estatistica-para-data-science-com-linguagem-python)
+- 🌱 Atualmente estou aprendendo [Power BI e SQL](https://www.udemy.com/course/powerbi-sqlserver/?couponCode=KEEPLEARNING)
 
 - 👯 Eu procuro colaborar em **projetos de ciência de dados**
 
