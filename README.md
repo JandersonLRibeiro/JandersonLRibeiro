@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 E obrigado a Kizzy Terra do canal Programação Dinâmica. 
 -->
 
-- 🔭 Atualmente estou trabalhando na [Magalu](https://www.magazineluiza.com.br/?partner_id=974&utm_source=google&utm_medium=cpc&utm_campaign=google_eco_per_ven_brd_all_sor_4p_brand-desk&utm_term=974&utm_content=none_roa_amp_none_none_tod_none&gclsrc=aw.ds&gad_source=1&gad_campaignid=1062954936&gclid=CjwKCAiAzZ_NBhAEEiwAMtqKy0Ig2_VOi8ntlIJFSLZqTQtfSQ5zn7xJPmkWVmdlgQYO_yLMmAdgghoCYPwQAvD_BwE)
+- 🔭 Atualmente estou trabalhando no [Magalu](https://www.magazineluiza.com.br/?partner_id=974&utm_source=google&utm_medium=cpc&utm_campaign=google_eco_per_ven_brd_all_sor_4p_brand-desk&utm_term=974&utm_content=none_roa_amp_none_none_tod_none&gclsrc=aw.ds&gad_source=1&gad_campaignid=1062954936&gclid=CjwKCAiAzZ_NBhAEEiwAMtqKy0Ig2_VOi8ntlIJFSLZqTQtfSQ5zn7xJPmkWVmdlgQYO_yLMmAdgghoCYPwQAvD_BwE)
 
 - 🌱 Atualmente estou aprendendo [Power BI e SQL](https://www.udemy.com/course/powerbi-sqlserver/?couponCode=KEEPLEARNING)
 
